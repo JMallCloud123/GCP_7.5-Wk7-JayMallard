@@ -1,6 +1,3 @@
-# GCP_7.5-Wk7-JayMallard
-
-
 # GCP Wk7 Terraform Homework
 
 This repo is for my GCP Wk7 Terraform homework. I used Terraform to set up a basic Google Cloud VPC, create a local text file, add outputs, and organize everything into the required repo folders.
