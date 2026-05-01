@@ -99,7 +99,7 @@ Files included:
 
 This section includes the provider configuration, VPC creation file, local file resource, output file, and gitignore file.
 
-I also added screenshots to the `Deliverables` folder showing the deployment steps and results.
+I also added screenshots to the `Deliverables` folder showing the deployment results.
 
 ## Terraform Setup
 
