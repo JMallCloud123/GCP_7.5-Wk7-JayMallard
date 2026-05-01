@@ -1,6 +1,5 @@
 # GCP_7.5-Wk7-JayMallard
 
-# GCP 7.5-Wk7-JayMallard
 
 # GCP Wk7 Terraform Homework
 
